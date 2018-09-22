@@ -1,5 +1,3 @@
-#!/bin/bash
-
 dirac_dir=dirac
 dirac_version=v6r19p18
 

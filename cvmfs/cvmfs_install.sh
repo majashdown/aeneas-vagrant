@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Install packages.
 
 yum install -y https://ecsft.cern.ch/dist/cvmfs/cvmfs-release/cvmfs-release-latest.noarch.rpm
