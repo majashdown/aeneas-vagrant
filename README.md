@@ -6,4 +6,6 @@ Vagrantfiles to set up virtual machines for AENEAS testing:
 
 * dirac: Centos 7 virtual machine with DIRAC software.
 
-* singularity: Ubuntu 18.04 virtual machine with Singularity.
+* singularity: Ubuntu 18.04 virtual machine with Singularity version 3.
+
+* singularity-old: Ubuntu 18.04 virtual machine with Singularity version 2.
